@@ -34,6 +34,7 @@ Here are some of the technologies I use most often:
 ## 📌 Featured Projects
 Here are a few of my highlighted repos:
 
+- 🤖 [VibeCoding security Benchmark](https://github.com/Solracs/vibecoding-security-benchmark) - Master Thesis (Work in progress) 
 - 🔍 [MagicBytesChanger](https://github.com/solracs/MagicBytesChanger) — Script for modifying file signature bytes  
 - 🧠 [tls-parser](https://github.com/solracs/tls-parser) — Parser for analyzing TLS connections  
 - 🛜 [web_for_pentest](https://github.com/solracs/web_for_pentest) — Adapted pen‑test web server (ARM‑friendly)  
